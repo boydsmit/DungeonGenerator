@@ -1,6 +1,6 @@
 # Dungeon Generator
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+Een gungeon generator maken met Unity in een 2D Grid array
 
 ## Software Anaylse 
 Er was keuze uit Unity en JS. Ik heb voor Unity gekozen omdat ik hierin meer ervaring heb dan in JavaScript
