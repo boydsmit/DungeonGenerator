@@ -15,9 +15,9 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 
-|week 1 |
-| | Planning van aanpak | 2D grid gemaakt | Spawnen van object in het grid | Random Generation | Array out of bounds fix |
-|week 2 |
+|week 1 |<br />
+| | Planning van aanpak | 2D grid gemaakt | Spawnen van object in het grid | Random Generation | Array out of bounds fix |<br />
+|week 2 |<br />
 | | Polishing | Inleveren |
 
 ## Bronnen
