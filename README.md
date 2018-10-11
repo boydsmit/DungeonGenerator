@@ -6,8 +6,8 @@ Een dungeon generator maken met Unity in een 2D Grid array
 Er was keuze uit Unity en JS. Ik heb voor Unity gekozen omdat ik hierin meer ervaring heb dan in JavaScript
 
 ## Leerdoelen 
---Het maken van een 2d gameobject grid
---Random generation op het grid
+--Het maken van een 2d gameobject grid<br />
+--Random generation op het grid<br />
 --Overall kennis op Unity verbreden
 
 ## Planning 
