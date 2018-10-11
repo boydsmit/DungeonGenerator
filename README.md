@@ -1,6 +1,6 @@
 # Dungeon Generator
 
-Een gungeon generator maken met Unity in een 2D Grid array
+Een dungeon generator maken met Unity in een 2D Grid array
 
 ## Software Anaylse 
 Er was keuze uit Unity en JS. Ik heb voor Unity gekozen omdat ik hierin meer ervaring heb dan in JavaScript
